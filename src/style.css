@@ -12,9 +12,26 @@ p {
   margin: 40px;
 }
 
+.contact-paragraph {
+    margin: 40px;
+    text-align: center;
+}
+
 img {
   display: flex;
   justify-content: center;
-  width: 70%;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  width: 50%;
   border-radius: 4px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer h4 {
+    display: inline;
+    margin-right: 1em;
+    margin-left: 1em;
 }
